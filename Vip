@@ -1,17 +1,17 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDBYJyo4Dzrl462sfD5B5BwvYB30VWwHBmZ1xguQZXQ&s" group-title="⭐️ CANALES ECUADOR",TELEVICENTRO |TVC
-http://1tv41.icu:8080/Py5zFZ/363334/164909
+http://magi-stv.net:8080/Hillary/Hillary123/147952
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="⭐️ CANALES ECUADOR",TELEVISION |TC
 http://1tv41.icu:8080/Py5zFZ/363334/164913
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="⭐️ CANALES ECUADOR",ECUAVISA
-http://tv.nousiptv.com:8080/pablopozo/1616/8084
+http://magi-stv.net:8080/Hillary/Hillary123/11032
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gamavision.png" group-title="⭐️ CANALES ECUADOR",GAMAVISION
-http://tv.nousiptv.com:8080/pablopozo/1616/53456
+http://magi-stv.net:8080/Hillary/Hillary123/147955
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="⭐️ CANALES ECUADOR",RTS
 http://tv.nousiptv.com:8080/pablopozo/1616/7534
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="⭐️ CANALES ECUADOR",TELEAMAZONAS
-http://tv.nousiptv.com:8080/pablopozo/1616/7532
+http://magi-stv.net:8080/Hillary/Hillary123/11040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="⭐️ CANALES ECUADOR",OROMAR TV
-http://tv.nousiptv.com:8080/pablopozo/1616/1155849
+http://magi-stv.net:8080/Hillary/Hillary123/176967
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Senal-colombia.png" group-title="⭐️ CANALES COLOMBIA",SEÑAL COLOMBIA
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304263
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="⭐️ CANALES COLOMBIA",CANAL UNO
@@ -38,10 +38,18 @@ http://oaktvpro.club:8080/945280602/Michelin4822/17972
 http://oaktvpro.club:8080/945280602/Michelin4822/17988
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/2a3ff3186859e7f0673594eefa53e14e.png" group-title="⭐️ CANALES MÉXICO",TL NOVELAS
 http://oaktvpro.club:8080/945280602/Michelin4822/6268
+#EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/2a3ff3186859e7f0673594eefa53e14e.png" group-title="⭐️ CANALES MÉXICO",TL NOVELAS 2M
+http://magi-stv.net:8080/Hillary/Hillary123/2092576
 #EXTINF:-1 tvg-logo="http://oaktv.pro:8080/images/69694900a2fb55995343afa9274be33b.jpg" group-title="⭐️ CANALES MÉXICO",ESTRELLA TV
 http://oaktvpro.club:8080/945280602/Michelin4822/6274
 #EXTINF:-1 tvg-logo="http://oaktv.pro:8080/images/426499f8e187589e6ff60166182c23bc.png" group-title="⭐️ CANALES MÉXICO",CANAL DE LAS ESTRELLAS
 http://oaktvpro.club:8080/945280602/Michelin4822/6302
+#EXTINF:-1 tvg-logo="http://oaktv.pro:8080/images/426499f8e187589e6ff60166182c23bc.png" group-title="⭐️ CANALES MÉXICO",CANAL DE LAS ESTRELLAS 2M
+http://magi-stv.net:8080/Hillary/Hillary123/2092556
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="⭐️ CANALES MÉXICO",CANAL AZTECA 7
+http://magi-stv.net:8080/Hillary/Hillary123/154122
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/telemax.png" group-title="⭐️ CANALES MÉXICO",CANAL TELEMAX
+http://magi-stv.net:8080/Hillary/Hillary123/97293
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/acf403bc8d9451e383fcef2cc5042710.png" group-title="⭐️ CANALES PERÚ",AMERICA TV
 http://oaktvpro.club:8080/945280602/Michelin4822/3402
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/0d918dfc4adcb80e48c9387e96bab7a0.png" group-title="⭐️ CANALES PERÚ",ATV
