@@ -5,21 +5,23 @@ http://1tv41.icu:8080/Py5zFZ/363334/164913
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="⭐️ CANALES ECUADOR",ECUAVISA
 http://magi-stv.net:8080/Hillary/Hillary123/11032
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-gamavision.png" group-title="⭐️ CANALES ECUADOR",GAMAVISION
-http://magi-stv.net:8080/Hillary/Hillary123/147955
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/11034
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RTS.png" group-title="⭐️ CANALES ECUADOR",RTS
-http://tv.nousiptv.com:8080/pablopozo/1616/7534
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/11036
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-teleamazonas.png" group-title="⭐️ CANALES ECUADOR",TELEAMAZONAS
 http://magi-stv.net:8080/Hillary/Hillary123/11040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="⭐️ CANALES ECUADOR",OROMAR TV
 http://magi-stv.net:8080/Hillary/Hillary123/176967
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Senal-colombia.png" group-title="⭐️ CANALES COLOMBIA",SEÑAL COLOMBIA
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304263
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/canalinstitucional.png" group-title="⭐️ CANALES COLOMBIA",CANAL INSTITUCIONAL
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/176611
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Canal-uno.png" group-title="⭐️ CANALES COLOMBIA",CANAL UNO
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304224
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/202063
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="⭐️ CANALES COLOMBIA",CANAL RCN HD
-http://oaktvpro.club:8080/945280602/Michelin4822/17973
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/155680
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="⭐️ CANALES COLOMBIA",CANAL RCN HD2
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/176580
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="⭐️ CANALES COLOMBIA",CANAL RCN INT
-http://oaktvpro.club:8080/945280602/Michelin4822/17974
+http://magi-stv.net:8080/raqueltapiacbc/cbctvplus/199513
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-RCN.png" group-title="⭐️ CANALES COLOMBIA",CANAL RCN NOVELAS
 http://oaktvpro.club:8080/945280602/Michelin4822/17976
 #EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-caracol.png" group-title="⭐️ CANALES COLOMBIA",CANAL CARACOL HD
@@ -40,6 +42,10 @@ http://oaktvpro.club:8080/945280602/Michelin4822/17981
 http://oaktvpro.club:8080/945280602/Michelin4822/17972
 #EXTINF:-1 tvg-logo="http://oaktv.pro:8080/images/d9564c89d74b0de9741405e00f78598c.png" group-title="⭐️ CANALES COLOMBIA",LA KALLE
 http://oaktvpro.club:8080/945280602/Michelin4822/17988
+#EXTINF:-1 tvg-logo="https://www.google.com.co/imgres?imgurl=https%3A%2F%2Fpajantv.com%2Fwp-content%2Fuploads%2F2021%2F05%2Fdescarga-3.png&tbnid=jcvD2godTu8L4M&vet=12ahUKEwjFzqOZsN-BAxU6I2IAHTOEABkQMygKegQIARBa..i&imgrefurl=https%3A%2F%2Fpajantv.com%2Fmusical%2F&docid=6n2GtodxFnj8wM&w=1024&h=1024&q=IMAGEN%20CANAL%20MI%20GENTE%20TV&ved=2ahUKEwjFzqOZsN-BAxU6I2IAHTOEABkQMygKegQIARBa" group-title="⭐️ CANALES COLOMBIA",MI GENTE TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com.co/imgres?imgurl=http%3A%2F%2Fmemorias.tv%2Fwp-content%2Fuploads%2F2022%2F03%2Fcropped-logo-MEMORIAS-TV-png-1.png&tbnid=zgfueYWec4vXaM&vet=12ahUKEwicgNDTsN-BAxWTOFkFHWhDCygQMygAegQIARBK..i&imgrefurl=https%3A%2F%2Fmemorias.tv%2F&docid=CUgscBv5t8uICM&w=3405&h=1453&q=IMAGEN%20CANAL%20MEMORIAS%20TV&ved=2ahUKEwicgNDTsN-BAxWTOFkFHWhDCygQMygAegQIARBK" group-title="⭐️ CANALES COLOMBIA",MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/2a3ff3186859e7f0673594eefa53e14e.png" group-title="⭐️ CANALES MÉXICO",TL NOVELAS
 http://oaktvpro.club:8080/945280602/Michelin4822/6268
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:8080/images/2a3ff3186859e7f0673594eefa53e14e.png" group-title="⭐️ CANALES MÉXICO",TL NOVELAS 2M
