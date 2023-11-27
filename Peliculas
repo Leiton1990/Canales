@@ -34,6 +34,8 @@ https://server17.peliscdn.online/newhls/9dbec2e7c4749ae37ba3b4351bafdd80/EP.0.1.
 https://server30.peliscdn.online/newhls/5cbf72b831e7089bed7afdb1fb6d91b8/EP.0.1.v0.1677523151.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION"RESCATANDO AL SOLDADO RYAN
 https://server16.peliscdn.online/newhls/75de8a2b7721c8e8c0dd9d3c413a51e1/EP.0.1.v1.1677854762.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION"DIAMANTE DE SANGRE
+https://server11.peliscdn.online/newhls/c270fe693ebe199e105b78e483fe7337/EP.0.1.v0.1679642783.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
@@ -73,6 +75,15 @@ https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxj
 https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e04ca83c0b01db121c8d56290709a175/EP.0.2.v0.1676324730.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",CASPER Y WENDY
 https://server17.peliscdn.online/newhls/7c090c98f9d90f93129c83fd2777d49f/EP.0.2.v0.1700969902.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",STUART LITTLE
+https://server24.peliscdn.online/newhls/a5b58cdaf54a537b3712802f16fe98d0/EP.0.1.v0.1677126581.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",STUART LITTLE II
+https://server25.peliscdn.online/newhls/6718d1dac0fddff09275c5ed31b42580/EP.0.1.v0.1677051220.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",BEBÉ SUELTO
+https://server30.peliscdn.online/newhls/0e0018c87bc7daa84a89f7d0441408f0/EP.0.1.v0.1677553183.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",KARATE KID
+https://server07.peliscdn.online/newhls/a09ecb1e372f98f3196790722a4515bd/EP.0.1.v0.1679648499.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NAVIDAD",MI POBRE ANGELITO I
 https://server30.peliscdn.online/newhls/a689e170439724aceda0f5974cfa64c9/EP.0.1.v1.1677529059.m3u8
