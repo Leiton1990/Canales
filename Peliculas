@@ -28,6 +28,14 @@ https://server10.peliscdn.online/newhls/43e57e98af6cfc88274249de34f0cc9c/EP.0.1.
 https://server02.peliscdn.online/newhls/1be612a0cf3dc244a166f4fbbda7bacf/EP.0.1.v0.1676833711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",FUERZA DELTA
 https://server23.peliscdn.online/newhls/07f4134305cd548d17e359c4a102258b/EP.0.1.v0.1677391990.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",DOBLE IMPACTO
+https://server17.peliscdn.online/newhls/9dbec2e7c4749ae37ba3b4351bafdd80/EP.0.1.v0.1679671913.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",SOLDADO UNVIVERSAL
+https://server30.peliscdn.online/newhls/5cbf72b831e7089bed7afdb1fb6d91b8/EP.0.1.v0.1677523151.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION"RESCATANDO AL SOLDADO RYAN
+https://server16.peliscdn.online/newhls/75de8a2b7721c8e8c0dd9d3c413a51e1/EP.0.1.v1.1677854762.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",GIGOLO POR ACCIDENTE
@@ -38,6 +46,12 @@ https://server14.peliscdn.online/newhls/747adbd74d7c11ed5cafb55633aaede3/EP.0.1.
 https://server10.peliscdn.online/newhls/ab9c85a893fda1e8b1cc8b821046a04f/EP.0.1.v0.1679670031.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",EL HIJO DE LA MASCARA
 https://server06.peliscdn.online/newhls/16c662d6a005a5b642aa2b5b66e866de/EP.0.1.v0.1677816592.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",DANIEL EL TRAVIESO
+https://server11.peliscdn.online/newhls/1a1d259114c9ffd19a2114d0ddff2a09/EP.0.1.v0.1679654104.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",DANIEL EL TRAVIESO II
+https://server06.peliscdn.online/newhls/33dcb3abecf708c29cc82ed91ebe0d4c/EP.0.1.v0.1677176525.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ZOMBIES",ESTACION ZOMBIE
 https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4bebaa05179afec4da832af6c51b73cc/EP.0.2.v1.1676326546.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR I
@@ -50,10 +64,30 @@ https://server28.peliscdn.online/newhls/4e074a365882b0889afff2bfac63df84/EP.0.1.
 https://server27.peliscdn.online/newhls/5bc059a7cd34698eaf1503413c3780aa/EP.0.1.v0.1678787926.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",LA PROFECIA III
 https://server23.peliscdn.online/newhls/c3aa9db5b655500d80d574e06113ae7e/EP.0.1.v0.1681932776.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ANIMADAS",EL GATO CON BOTAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",EL EXORCISTA 1973
+https://server33.peliscdn.online/newhls/fcd79245c9998ccea6c0476bc6be3de6/EP.0.1.v0.1677589763.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",EL GATO CON BOTAS
 https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.2.v12.1679241577.720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ANIMADAS",LA ERA DE HIELO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",LA ERA DE HIELO
 https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e04ca83c0b01db121c8d56290709a175/EP.0.2.v0.1676324730.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",CASPER Y WENDY
+https://server17.peliscdn.online/newhls/7c090c98f9d90f93129c83fd2777d49f/EP.0.2.v0.1700969902.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NAVIDAD",MI POBRE ANGELITO I
+https://server30.peliscdn.online/newhls/a689e170439724aceda0f5974cfa64c9/EP.0.1.v1.1677529059.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NAVIDAD",MI POBRE ANGELITO II
+https://server15.peliscdn.online/newhls/3fc258a62d96097e410211ebcbd4796f/EP.0.1.v0.1677454858.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NAVIDAD",MI POBRE ANGELITO III
+https://server30.peliscdn.online/newhls/30b88704c4314493143eaceec826a826/EP.0.1.v0.1677517922.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NAVIDAD",MI POBRE ANGELITO IV
+https://server06.peliscdn.online/newhls/0d5332dec95826a562124d5705e3bdb2/EP.0.1.v0.1677248345.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CHUCKY 1
 https://pc-45.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/a40d3a58400fd447b75a033570d05762/EP.0.1.v2.1678740092.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CHUCKY 2
@@ -62,6 +96,24 @@ https://server33.peliscdn.online/newhls/ec78dd62cb5baf99d8b771ba6791cda1/EP.0.1.
 https://pc-01.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e5e1d47877a4fc3d68c5935837454c9a/EP.0.1.v0.1677512994.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",LA NOVIA DE CHUCKY
 https://pc-17.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/88c32b691ca7b49e20f4a0ebdbb67e00/EP.0.1.v0.1677501897.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",ANACONDA
+https://server30.peliscdn.online/newhls/7b3ca192d89156852cfecbb0fab1851f/EP.0.1.v0.1677061547.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",ANACONDA II (Orquidea Sagrada)
+https://server05.peliscdn.online/newhls/41d1c983632efaa60758898702528ec7/EP.0.1.v0.1677327406.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",ANACONDA III (La Amenaza)
+https://server04.peliscdn.online/newhls/46d4e0c4ae7be30a5d8ee24abcc302f5/EP.0.1.v0.1676950316.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",PIRAÑAS
+https://server37.peliscdn.online/newhls/60975f9c950eb93771b7b2f2116172f1/EP.0.1.v0.1677271853.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TEMBLORES I
+https://server46.peliscdn.online/newhls/8bb006e414d9f49da2b6122aaf7c4f9a/EP.0.1.v0.1677548306.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TEMBLORES II
+https://server11.peliscdn.online/newhls/5dc1465793af6a1ab2c8eae0d33b642b/EP.0.1.v0.1677381562.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TEMBLORES III
+https://server19.peliscdn.online/newhls/84e7949d50beee2b38abfb709c502e86/EP.0.1.v1.1677573233.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS SUSPENSO",DESTINO FINAL I
 https://server29.peliscdn.online/newhls/27fda16ab8f73ef5bca049f9a3012d2c/EP.0.1.v0.1677211801.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS SUSPENSO",DESTINO FINAL II
@@ -70,6 +122,46 @@ https://server29.peliscdn.online/newhls/ce7aba964ef8c8218e558cc98a875583/EP.0.1.
 https://server28.peliscdn.online/newhls/9de0282640c673269b590c870626bbf7/EP.0.1.v0.1677456801.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS SUSPENSO",DESTINO FINAL IV
 https://server26.peliscdn.online/newhls/68a451e464278ad07c6567f3a2d540b9/EP.0.1.v0.1678025869.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 1
+https://server35.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.1.1.v0.1676548762.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 2
+https://server36.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.2.1.v0.1676543046.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 3
+https://server37.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.3.1.v0.1676556695.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 4
+https://server38.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.4.1.v0.1676650167.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 5
+https://server39.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.5.1.v0.1676578502.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 6
+https://server40.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.6.1.v0.1676586329.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 7
+https://server41.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.7.1.v0.1676630309.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 8
+https://server42.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.8.1.v0.1676653245.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 9
+https://server43.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.9.1.v0.1676645267.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 10
+https://server44.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.10.1.v0.1676690056.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 11
+https://server45.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.11.1.v0.1677064906.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 12
+https://server46.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.12.1.v0.1676631865.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 13
+https://server47.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.13.1.v0.1676654336.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 14
+https://server01.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.14.1.v0.1676652017.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 15
+https://server02.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.15.1.v0.1676620683.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 16
+https://server03.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.16.1.v0.1676686102.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 17
+https://server04.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.17.1.v0.1676588241.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 18
+https://server05.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.18.1.v0.1676810599.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 19
+https://server06.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.19.1.v0.1676731424.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 20
+https://server15.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.20.1.v0.1679673043.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
