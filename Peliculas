@@ -36,6 +36,8 @@ https://server30.peliscdn.online/newhls/5cbf72b831e7089bed7afdb1fb6d91b8/EP.0.1.
 https://server16.peliscdn.online/newhls/75de8a2b7721c8e8c0dd9d3c413a51e1/EP.0.1.v1.1677854762.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION"DIAMANTE DE SANGRE
 https://server11.peliscdn.online/newhls/c270fe693ebe199e105b78e483fe7337/EP.0.1.v0.1679642783.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION"JUNTOS EN COMBATE
+https://server23.peliscdn.online/newhls/a5275b20c270c75293e91baadc52701f/EP.0.1.v0.1701235010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",GIGOLO POR ACCIDENTE
@@ -52,6 +54,10 @@ https://server11.peliscdn.online/newhls/1a1d259114c9ffd19a2114d0ddff2a09/EP.0.1.
 https://server06.peliscdn.online/newhls/33dcb3abecf708c29cc82ed91ebe0d4c/EP.0.1.v0.1677176525.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ZOMBIES",ESTACION ZOMBIE
 https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4bebaa05179afec4da832af6c51b73cc/EP.0.2.v1.1676326546.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ZOMBIES",ZOMBIELAND
+https://server30.peliscdn.online/newhls/fb25604339abca1d03c41057155da33b/EP.0.1.v0.1677091721.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ZOMBIES",CASTORES ZOMBIES
+https://server12.peliscdn.online/newhls/5adf7930ff820b8c6cb0f405098a6b49/EP.0.1.v1.1677481545.1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR I
 https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/174e703f7208f8287640a6d24862375b/EP.0.1.v0.1677960221.1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR II
@@ -68,8 +74,12 @@ https://server23.peliscdn.online/newhls/c3aa9db5b655500d80d574e06113ae7e/EP.0.1.
 https://server33.peliscdn.online/newhls/fcd79245c9998ccea6c0476bc6be3de6/EP.0.1.v0.1677589763.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",EL GATO CON BOTAS
 https://pc-14.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/903f2e45085950d6d0f6d2b5ec8d0109/EP.0.2.v12.1679241577.720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",LA ERA DE HIELO
-https://pc-05.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/e04ca83c0b01db121c8d56290709a175/EP.0.2.v0.1676324730.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",LA ERA DE HIELO I
+https://server25.peliscdn.online/newhls/87bddf36fd45b4f1bb041555f7f34826/EP.0.1.v0.1677741906.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",LA ERA DE HIELO II
+https://server42.peliscdn.online/newhls/71cd8980f1c83d936d19e89a965f13dd/EP.0.1.v0.1677424625.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",LA ERA DE HIELO IV
+https://server34.peliscdn.online/newhls/0875cb84efab272f7e6a4c9ed298715a/EP.0.1.v0.1677431858.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",CASPER Y WENDY
 https://server17.peliscdn.online/newhls/7c090c98f9d90f93129c83fd2777d49f/EP.0.2.v0.1700969902.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS INFANTILES",STUART LITTLE
@@ -158,6 +168,84 @@ https://server05.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.18.1
 https://server06.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.19.1.v0.1676731424.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 20
 https://server15.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.20.1.v0.1679673043.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 1
+https://server27.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.1.1.v0.1678006460.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 2
+https://server28.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.3.1.v0.1677290488.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 3
+https://server29.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.4.1.v0.1676942968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 4
+https://server30.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.5.1.v0.1677200385.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 5
+https://server12.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.6.1.v0.1679781542.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 6
+https://server33.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.7.1.v0.1676991104.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 7
+https://server34.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.8.1.v0.1677237548.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 8
+https://server37.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.9.1.v0.1677077909.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 9
+https://server38.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.10.1.v0.1677254738.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 10
+https://server39.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.11.1.v0.1677071481.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 11
+https://server40.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.12.1.v0.1677036499.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 12
+https://server04.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.13.1.v0.1677071739.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 13
+https://server45.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.15.1.v0.1677953689.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 14
+https://server47.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.16.1.v0.1677428258.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 15
+https://server01.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.17.1.v0.1677152573.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 16
+https://server15.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.19.1.v0.1679748498.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 17
+https://server16.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.20.1.v0.1679794894.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 18
+https://server18.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.21.1.v0.1679784208.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T1",CAPITULO 19
+https://server16.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.22.1.v0.1677665113.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 1
+https://server01.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.1.1.v0.1677153014.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 2
+https://server02.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.3.1.v0.1677110268.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 3
+https://server03.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.4.1.v0.1677194421.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 4
+https://server04.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.5.1.v0.1677071450.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 5
+https://server05.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.6.1.v0.1677511432.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 6
+https://server06.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.7.1.v0.1677492023.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 7
+https://server08.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.8.1.v0.1679970081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 8
+https://server11.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.10.1.v0.1679759745.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 9
+https://server11.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.11.1.v0.1677174631.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T2",CAPITULO 10
+https://server12.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.12.1.v0.1677276699.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 1
+https://server15.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.1.1.v0.1677272846.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 2
+https://server16.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.2.1.v0.1677665277.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 3
+https://server18.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.3.1.v0.1676612534.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 4
+https://server19.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.4.1.v0.1677368689.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 5
+https://server21.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.5.1.v0.1677329299.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 6
+https://server22.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.6.1.v0.1677239560.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 7
+https://server24.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.7.1.v0.1677240126.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 8
+https://server25.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.8.1.v0.1677174696.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 9
+https://server28.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.9.1.v0.1677290788.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EL AUTO FANTASTICO T3",CAPITULO 10
+https://server30.peliscdn.online/newhls/cf1b0a7c429f62df20ee945889d0f48e/EP.10.1.v0.1677200632.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MARIA LA DEL BARRIO",CAPITULO 1
 https://server40.peliscdn.online/newhls/7eebb01d2385d79c3cc4cd59efcad5b6/EP.1.1.v1.1676543733.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MARIA LA DEL BARRIO",CAPITULO 2
