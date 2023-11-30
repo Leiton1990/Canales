@@ -429,7 +429,7 @@ https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_l8et2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COMANDO ELITE",CAPITULO 19
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_7hvk7ck8/clipTo/2960000/clipFrom/130000/v/12/ev/20/flavorId/0_uadr5h67/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COMANDO ELITE",CAPITULO 20
-https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/0_bola2ago/format/applehttp/protocol/https/flavorIds/0_01hfjbsl,0_180xv9cx,0_mzkstzvo,0_zxayrje1,0_dw58yf35,0_i9hhyc2h,0_vall3xyz,0_5ng01awc/preferredBitrate/1500/maxBitrate/10000/seekFrom/130000/clipTo/2938000/a.m3u8
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_bola2ago/clipTo/2938000/clipFrom/130000/v/12/ev/21/flavorId/0_5ng01awc/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
