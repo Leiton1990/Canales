@@ -562,6 +562,32 @@ https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_ojs7l
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_g7ui9b4s/clipTo/2813000/clipFrom/130000/v/2/ev/10/flavorId/0_fr85hztm/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COMANDO ELITE",CAPITULO 84
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_txsymo2f/clipTo/2777000/clipFrom/130000/v/2/ev/10/flavorId/0_exqdyzk0/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",AUTENTICA ST - CUMBAL
+http://stream-150.zeno.fm/gz23gkz38vzuv?zs=zGGkWDnUTlaV150IDu4zvw&1687275899705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",ALCALA FIESTA - GUACHUCAL
+https://stream-150.zeno.fm/vw415xpbv0hvv?zs=mQ5DPoWeT0KTy53n87qO1w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",CANELA RADIO - ECUADOR
+https://canelaradio.makrodigital.com:9250/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",IDENTIDAD ST - CUMBAL
+http://stream-150.zeno.fm/fpft1f74998uv?zs=rHw58jr7TTiHtWUm7tp8gw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",MUELLAMUES ST - GUACHUCAL
+https://stream-163.zeno.fm/5uu2tw8wgnruv?zs=HoRbwJaGRvuWmMV0CbZ-7Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",ONDAS CARCHENSES - ECUADOR
+https://ss.ecuastreamhd.com:8134/OndasCarchenses-HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",PAPIALPA ST - PUPIALES
+https://radiohd.streaminghd.co:7283/live?1687313339
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO ACTIVA - TUQUERRES
+https://radiohd.streaminghd.co:7256/stream?1621007959
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO BEMVA - CUMBAL
+https://s1.suenalive.com:7325/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO MARIA
+http://149.202.69.190:8100/stream/1/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO NUEVA Q - PERÚ
+https://27373.live.streamtheworld.com/CRP_NQAAC.aac?csegid=1010&dist=1010&_=548037
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",SUREÑA RADIO - CUMBAL
+http://80.84.57.76:36556/index.htmlCHUMILLASsid=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",MUSICA ROMANTICA 24/7
+https://stream.ads.ottera.tv/cl/231130clkgikpp0f6tq7a06el0/1280x720_1400000_1_f.m3u8?i=475_1082
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
