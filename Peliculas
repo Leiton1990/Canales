@@ -40,8 +40,6 @@ https://server11.peliscdn.online/newhls/c270fe693ebe199e105b78e483fe7337/EP.0.1.
 https://server23.peliscdn.online/newhls/a5275b20c270c75293e91baadc52701f/EP.0.1.v0.1701235010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",VUELO MORTAL
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_95r42gyh/v/1/ev/10/flavorId/1_53ba8t8g/name/a.mp4/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",GIGOLO POR ACCIDENTE
@@ -128,6 +126,8 @@ https://server05.peliscdn.online/newhls/41d1c983632efaa60758898702528ec7/EP.0.1.
 https://server04.peliscdn.online/newhls/46d4e0c4ae7be30a5d8ee24abcc302f5/EP.0.1.v0.1676950316.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",PIRAÑAS
 https://server37.peliscdn.online/newhls/60975f9c950eb93771b7b2f2116172f1/EP.0.1.v0.1677271853.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TERROR BAJO EL AGUA
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_j7mh5cbg/v/21/ev/30/flavorId/1_kj17wnxs/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TEMBLORES I
 https://server46.peliscdn.online/newhls/8bb006e414d9f49da2b6122aaf7c4f9a/EP.0.1.v0.1677548306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",TEMBLORES II
@@ -562,9 +562,6 @@ https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_ojs7l
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_g7ui9b4s/clipTo/2813000/clipFrom/130000/v/2/ev/10/flavorId/0_fr85hztm/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COMANDO ELITE",CAPITULO 84
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_txsymo2f/clipTo/2777000/clipFrom/130000/v/2/ev/10/flavorId/0_exqdyzk0/name/a.mp4/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
