@@ -1,5 +1,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",HASTA EL ULTIMO HOMBRE
 https://pc-35.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/4f36e86d4d91a084280e8de660ab2750/EP.0.1.v1.1677296522.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",LAGRIMAS DEL SOL
+http://factoryplay.online:8080/movie/JulioMera2022/2022JulioMera/337584.mkv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",RAMBO I
 https://pc-18.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/d38c0a6bffc59e7f565fc08529b2b649/EP.0.1.v0.1677378066.1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",RAMBO II
@@ -40,6 +43,16 @@ https://server11.peliscdn.online/newhls/c270fe693ebe199e105b78e483fe7337/EP.0.1.
 https://server23.peliscdn.online/newhls/a5275b20c270c75293e91baadc52701f/EP.0.1.v0.1701235010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",VUELO MORTAL
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_95r42gyh/v/1/ev/10/flavorId/1_53ba8t8g/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",SIN TETAS NO HAY PARAISO
+http://oaktvpro.club:8080/movie/945280602/Michelin4822/50075.avi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",ALMA DE HEROE
+http://oaktvpro.club:8080/movie/945280602/Michelin4822/50034.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",EL ARRIERO
+http://oaktvpro.club:8080/movie/945280602/Michelin4822/50040.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",SOÑAR NO CUESTA NADA
+http://oaktvpro.club:8080/movie/945280602/Michelin4822/50076.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",PERRO COME PERRO
+http://oaktvpro.club:8080/movie/945280602/Michelin4822/50069.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",GIGOLO POR ACCIDENTE
@@ -63,9 +76,13 @@ https://server12.peliscdn.online/newhls/5adf7930ff820b8c6cb0f405098a6b49/EP.0.1.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR I
 https://pc-47.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/174e703f7208f8287640a6d24862375b/EP.0.1.v0.1677960221.1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR II
-https://01-ukr-sv.enpantallas.com/v/01/00000/z6emswzjeccl_n/n.mp4?t=ud9NZO4JtlQlacJHkCjktnbEIVsKiwS0bPwC7jU9hGI&s=1701212363&e=43200&f=2&sp=625&i=190.90
+http://factoryplay.online:8080/movie/JulioMera2022/2022JulioMera/345378.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR III
 https://server27.peliscdn.online/newhls/ba8c59e2cb5a0ce5148c000fb0e94b7d/EP.0.1.v2.1678231539.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR IV
+http://factoryplay.online:8080/movie/JulioMera2022/2022JulioMera/345380.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR V
+http://factoryplay.online:8080/movie/JulioMera2022/2022JulioMera/345381.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",LA PROFECIA I
 https://server28.peliscdn.online/newhls/4e074a365882b0889afff2bfac63df84/EP.0.1.v0.1677900441.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",LA PROFECIA II
@@ -588,6 +605,24 @@ https://27373.live.streamtheworld.com/CRP_NQAAC.aac?csegid=1010&dist=1010&_=5480
 http://80.84.57.76:36556/index.htmlCHUMILLASsid=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",MUSICA ROMANTICA 24/7
 https://stream.ads.ottera.tv/cl/231130clkgikpp0f6tq7a06el0/1280x720_1400000_1_f.m3u8?i=475_1082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 1
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368981.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 2
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368982.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 3
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368983.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 4
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368984.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 5
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368985.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 6
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368986.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 7
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368987.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 8
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368988.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 9
+http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368989.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
