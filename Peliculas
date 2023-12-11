@@ -72,6 +72,8 @@ https://server30.peliscdn.online/newhls/12906770df3c9416037c8841ff47201f/EP.0.1.
 https://server25.peliscdn.online/newhls/438a530d58be17aed0022428a582b83e/EP.0.1.v0.1677505442.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",CHIQUITO PERO PELIGROSO
 https://server14.peliscdn.online/newhls/747adbd74d7c11ed5cafb55633aaede3/EP.0.1.v1.1679662688.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",EUROVIAJE CENSURADO
+https://server23.peliscdn.online/newhls/6fbcf0732a702928ad811e9e4678daf8/EP.0.1.v0.1681850695.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",LA MASCARA
 https://server10.peliscdn.online/newhls/ab9c85a893fda1e8b1cc8b821046a04f/EP.0.1.v0.1679670031.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",EL HIJO DE LA MASCARA
@@ -632,8 +634,6 @@ http://149.202.69.190:8100/stream/1/
 https://27373.live.streamtheworld.com/CRP_NQAAC.aac?csegid=1010&dist=1010&_=548037
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",SUREÑA RADIO - CUMBAL
 http://80.84.57.76:36556/index.htmlCHUMILLASsid=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",MUSICA ROMANTICA 24/7
-https://stream.ads.ottera.tv/cl/231130clkgikpp0f6tq7a06el0/1280x720_1400000_1_f.m3u8?i=475_1082
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 1
 http://factoryplay.online:8080/series/JulioMera2022/2022JulioMera/368981.mkv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="JUEGO DEL CALAMAR",CAPITULO 2
