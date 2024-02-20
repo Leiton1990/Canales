@@ -62,6 +62,20 @@ https://server11.peliscdn.online/newhls/c270fe693ebe199e105b78e483fe7337/EP.0.1.
 https://server23.peliscdn.online/newhls/a5275b20c270c75293e91baadc52701f/EP.0.1.v0.1701235010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",VUELO MORTAL
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_95r42gyh/v/1/ev/10/flavorId/1_53ba8t8g/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",PERRO NEGRO
+https://server14.peliscdn.online/newhls/b519cc248c2b69065f78fd33445b6989/EP.0.1.v0.1677077564.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",LA SOCIEDAD DE LA NIEVE
+https://fast1.next-stream.xyz/movie/1704416400/177291_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",NO MANCHES FRIDA
+https://server20.peliscdn.online/newhls/05c38c474d0b964615d94af76dac947b/EP.0.1.v0.1677437538.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",NO MANCHES FRIDA 2
+https://server28.peliscdn.online/newhls/dc614df461df7d14e498afedf1f04c4b/EP.0.1.v3.1677419189.360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",NO SE ACEPTAN DEVOLUCIONES
+https://server29.peliscdn.online/newhls/00d2827c515fb2a2ceadd93b6ae92651/EP.0.1.v0.1677080181.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",NO SE ACEPTAN DEVOLUCIONES 10 AÑOS
+https://server22.peliscdn.online/newhls/2c5908b9f98c5ea9b484234f966f5e4f/EP.0.2.v0.1696505792.720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS NETFLIX",FEO PERO SABROSO
+https://server04.peliscdn.online/newhls/ebe127c77f88a54d52481f3e97a4f1c9/EP.0.1.v0.1677013605.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",MENTIROSO MENTIROSO
 https://server26.peliscdn.online/newhls/5b28a4eadb5bf9c7651ba72bba83b7a5/EP.0.1.v0.1678191688.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COMEDIA",TODO PODEROSO
@@ -198,6 +212,8 @@ https://server29.peliscdn.online/newhls/ce7aba964ef8c8218e558cc98a875583/EP.0.1.
 https://server28.peliscdn.online/newhls/9de0282640c673269b590c870626bbf7/EP.0.1.v0.1677456801.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS SUSPENSO",DESTINO FINAL IV
 https://server26.peliscdn.online/newhls/68a451e464278ad07c6567f3a2d540b9/EP.0.1.v0.1678025869.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS CLASICAS",TITANIC
+https://server37.peliscdn.online/newhls/9443369f786c046827ffb6217fd28f6b/EP.0.1.v1.1677391857.720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 1
 https://server35.peliscdn.online/newhls/843df2e92cca53db2f2495179595d76c/EP.1.1.v0.1676548762.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ESCALERA AL CIELO",CAPITULO 2
@@ -618,30 +634,6 @@ https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_ojs7l
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_g7ui9b4s/clipTo/2813000/clipFrom/130000/v/2/ev/10/flavorId/0_fr85hztm/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="COMANDO ELITE",CAPITULO 84
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/0_txsymo2f/clipTo/2777000/clipFrom/130000/v/2/ev/10/flavorId/0_exqdyzk0/name/a.mp4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",AUTENTICA ST - CUMBAL
-http://stream-150.zeno.fm/gz23gkz38vzuv?zs=zGGkWDnUTlaV150IDu4zvw&1687275899705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",ALCALA FIESTA - GUACHUCAL
-https://stream-150.zeno.fm/vw415xpbv0hvv?zs=mQ5DPoWeT0KTy53n87qO1w
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",CANELA RADIO - ECUADOR
-https://canelaradio.makrodigital.com:9250/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",IDENTIDAD ST - CUMBAL
-http://stream-150.zeno.fm/fpft1f74998uv?zs=rHw58jr7TTiHtWUm7tp8gw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",MUELLAMUES ST - GUACHUCAL
-https://stream-163.zeno.fm/5uu2tw8wgnruv?zs=HoRbwJaGRvuWmMV0CbZ-7Q
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",ONDAS CARCHENSES - ECUADOR
-https://ss.ecuastreamhd.com:8134/OndasCarchenses-HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",PAPIALPA ST - PUPIALES
-https://radiohd.streaminghd.co:7283/live?1687313339
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO ACTIVA - TUQUERRES
-https://radiohd.streaminghd.co:7256/stream?1621007959
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO BEMVA - CUMBAL
-https://s1.suenalive.com:7325/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO MARIA
-http://149.202.69.190:8100/stream/1/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",RADIO NUEVA Q - PERÚ
-https://27373.live.streamtheworld.com/CRP_NQAAC.aac?csegid=1010&dist=1010&_=548037
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="EMISORAS DE RADIO",SUREÑA RADIO - CUMBAL
-http://80.84.57.76:36556/index.htmlCHUMILLASsid=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 1
 https://server01.peliscdn.online/newhls/a569e8ec415b4f1013869304de97f914/EP.1.1.v0.1676316460.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="BETTY LA FEA",CAPITULO 2
@@ -792,33 +784,55 @@ https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_hhv1i
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_e53jgcr2/v/1/ev/10/flavorId/1_r5x4axkq/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INFIELES LA SERIE",CAPITULO 25
 https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_8oelgrx7/v/1/ev/10/flavorId/1_firyygnb/name/a.mp4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",SIN TETAS NO HAY PARAISO
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/252286.avi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",ALMA DE HEROE
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/244948.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",EL ARRIERO
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/252268.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",SOÑAR NO CUESTA NADA
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/249205.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",PERRO COME PERRO
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/252298.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS COLOMBIANAS",LA MILAGROSA
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/252272.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS ACCION",LAGRIMAS DEL SOL
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/296116.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR II
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253811.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR IV
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253813.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",CAMINO HACIA EL TERROR V
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253814.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",COCODRILO
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253842.mkv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",COCODRILO 2
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253843.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",COCODRILO 3
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253845.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",COCODRILO 4
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253841.avi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="PELICULAS TERROR",COCODRILO VS ANACONDA
-http://tvlatino.club:2082/movie/shirleyel48/eDFKbmzeyeAe/253846.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 1
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_4awzx3sa/clipTo/2815000/v/1/ev/10/flavorId/1_3unuj8kg/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 2
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_h6iia6f3/clipTo/2811000/v/1/ev/10/flavorId/1_qlfhn2xf/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 3
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_waphc6ti/clipTo/2723000/v/11/ev/10/flavorId/1_5g2svjda/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 4
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_rl1cb0en/clipTo/2820000/v/1/ev/10/flavorId/1_ny3k533w/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 5
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_43cnzxm2/clipTo/2783000/v/1/ev/10/flavorId/1_x6w2e0p8/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 6
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_kibpws8l/clipTo/2778000/v/1/ev/10/flavorId/1_g5lqoiut/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 7
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_2p9ia9fq/clipTo/2811000/v/1/ev/10/flavorId/1_8blnj1bb/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 8
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_fmzp6b18/clipTo/2762000/v/1/ev/10/flavorId/1_20jpx93j/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 9
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_oe8no3fj/clipTo/2184000/v/1/ev/10/flavorId/1_4fyw2kg0/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 10
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_z51gmuuy/clipTo/2827000/v/1/ev/10/flavorId/1_vifmz9ry/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 11
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ak7z0i3q/clipTo/2715000/v/1/ev/10/flavorId/1_hgpatreb/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 12
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ib3m4izu/clipTo/2682000/v/1/ev/10/flavorId/1_t13xig2j/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 13
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_404lj683/clipTo/2764000/v/1/ev/10/flavorId/1_1qlulj23/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 14
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_mcdyxj7u/clipTo/2783000/v/1/ev/10/flavorId/1_4jxx1jiz/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 15
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ixl5ti0w/clipTo/2788000/v/1/ev/10/flavorId/1_2yza9rqy/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 16
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_10lcdwsw/clipTo/2795000/v/1/ev/10/flavorId/1_1eptopxk/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 17
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_t79v36fs/clipTo/2761000/v/1/ev/10/flavorId/1_kiiwdgry/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 18
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_oyg8qzyz/clipTo/2792000/v/1/ev/10/flavorId/1_770u8cxr/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 19
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_xdzf80yy/clipTo/2751000/v/1/ev/10/flavorId/1_gku6f18s/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 20
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_l5v639hq/clipTo/2641000/v/1/ev/10/flavorId/1_ediqn6il/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 21
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_hco6e28x/clipTo/2757000/v/1/ev/10/flavorId/1_9vauuflq/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 22
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_v7vkf511/clipTo/2768000/v/1/ev/10/flavorId/1_tkaamoee/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 22
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_ixk1m2s6/clipTo/2563000/v/1/ev/10/flavorId/1_9z4x584q/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 23
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_a2xwom5n/clipTo/2815000/v/1/ev/10/flavorId/1_ecfnjb8t/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 24
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_jvnv350v/clipTo/2742000/v/1/ev/10/flavorId/1_4k6h6qn7/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DIVINO NIÑO - SERIE",CAPITULO 25
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_qt4mik2k/clipTo/2783000/v/1/ev/18/flavorId/1_bx684hef/name/a.mp4/index.m3u8
